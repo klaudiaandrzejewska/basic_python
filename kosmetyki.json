@@ -1,0 +1,24 @@
+[
+
+  {
+    "firma": "avon",
+    "nazwa": "Cipka",
+    "rodzaj": "Damska",
+    "cena": 123,
+    "opis": null
+  },
+  {
+    "firma": "dupa",
+    "nazwa": "pipek",
+    "rodzaj": "super",
+    "cena": 32,
+    "opis": null
+  },
+  {
+    "firma": "avon",
+    "nazwa": "żel",
+    "rodzaj": "żel",
+    "cena": 54,
+    "opis": null
+  }
+]
